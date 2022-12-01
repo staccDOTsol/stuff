@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "402690719389",
+    "project_id": "test-7dc8d",
+    "storage_bucket": "test-7dc8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402690719389:android:6051902e735de703cfde74",
+        "android_client_info": {
+          "package_name": "com.dcss.horrorchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402690719389-rejvahlrtohmohv63h014tc0ha96ivh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwCmKtq3dhWBPK8lQpRWqVcLgSgXl5TwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402690719389-rejvahlrtohmohv63h014tc0ha96ivh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
